@@ -1,4 +1,4 @@
-# Integrated-Fiscal-Analysis-of-India-
+# Integrated-Fiscal-Analysis-of-India
 📌 Project Title
 Integrated Fiscal Analysis of India – Power BI Dashboard
 
