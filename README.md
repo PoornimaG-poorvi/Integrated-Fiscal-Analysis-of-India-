@@ -1,6 +1,7 @@
 # Integrated-Fiscal-Analysis-of-India-
 📌 Project Title
 Integrated Fiscal Analysis of India – Power BI Dashboard
+
 📝 Short Description
 This project provides a detailed fiscal analysis of Indian states using Power BI. It includes insights on Actual, Budgeted, and Revised revenue amounts, deviations, expenditure, fiscal deficit, and year-over-year growth patterns.
 The project uses data extracted from the official Reserve Bank of India (RBI) website. The data was processed using Python, stored in MySQL, and finally visualized in Power BI with advanced slicers, multiple dashboards, and custom insights.
@@ -68,9 +69,14 @@ o	Performance Category
 •	Provides a unified fiscal picture across multiple years and categories
 
 🖼️ Screenshot
+
 1.Integrated Fiscal Analysis of India  for Allstates: https://github.com/PoornimaG-poorvi/Integrated-Fiscal-Analysis-of-India-/blob/main/Integrated%20Fiscal%20Analysis%20of%20India%20for%20Allstates.png 
+
 2. Integrated Fiscal Analysis of India for Allstates Slicer Panel: https://github.com/PoornimaG-poorvi/Integrated-Fiscal-Analysis-of-India-/blob/main/Integrated%20Fiscal%20Analysis%20of%20India%20for%20Allstates%20Slicer.png
+
 3. Integrated Fiscal Analysis of India for Allstates Deviation tooltip: https://github.com/PoornimaG-poorvi/Integrated-Fiscal-Analysis-of-India-/blob/main/Integrated%20Fiscal%20Analysis%20of%20India%20for%20Allstates%20Slicer.png https://github.com/PoornimaG-poorvi/Integrated-Fiscal-Analysis-of-India-/blob/main/Integrated%20Fiscal%20Analysis%20of%20India%20for%20Allstates%20Deviation%20tooltip.png
+
 4. Integrated Fiscal Analysis of India for States Finance: https://github.com/PoornimaG-poorvi/Integrated-Fiscal-Analysis-of-India-/blob/main/Integrated%20Fiscal%20Analysis%20of%20India%20states%20Finance.png
+   
 5. Integrated Fiscal Analysis of India for States Finance Slicer Panel: https://github.com/PoornimaG-poorvi/Integrated-Fiscal-Analysis-of-India-/blob/main/Integrated%20Fiscal%20Analysis%20of%20India%20states%20Finance%20Slicer.png
 
